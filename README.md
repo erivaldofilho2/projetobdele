@@ -1,7 +1,13 @@
-Projeto de banco de dados 
+Tópicos Especiais em Banco de Dados: Gerência de Dados Semiestruturados
+-----------
+Professor: Fábio Coutinho
 
 Alunos:
-Ana Georgia
-Erivaldo lourenço
+
+Ana Geórgia
+
+Erivaldo Lourenço
+
 Juliana Cavalcanti
+
 Poliana Belo
